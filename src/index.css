@@ -1,0 +1,47 @@
+/* Navbar */
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+main {
+    margin: 16px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    background: rebeccapurple;
+    color: white;
+    font-family: Helvetica;
+    font-weight: 300;
+}
+
+.navbar__title {
+    margin-right: auto;
+    font-size: 150%;
+    padding: 12px 16px;
+}
+
+.navbar__item {
+    padding: 16px 16px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+
+/* Game */
+
+iframe {
+    height: 500px;
+    width: 100%;
+}
+
+
+/* Dashboard */
+
+.cardHolder {
+    width: 50%;
+    max-height: 100%;
+}
