@@ -5,7 +5,7 @@ const game = () => {
     return(
         <div className='container frame'>
             
-            <iframe className="responsive-iframe col-md-12" title='Game' src='./content/srm/srm.html'></iframe>
+            <iframe className="responsive-iframe col-md-12" title='Game' src='./content/srm/srm.html' scrolling='no'></iframe>
 
         </div>
         )
