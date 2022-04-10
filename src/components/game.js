@@ -1,9 +1,13 @@
-import React from 'react'
-const data = require('../data.json');
+import * as React from 'react'
+import data from '../data.json'
 
-const game = (props) => {
-    let code = Number(props.code) || 0
-    let element = JSON.parse(data).cards[code]
+
+const game = (match) => {
+    const { code } = match.params.code;
+    console.log(code)
+    console.log(data, match)
+    let element = data.cards[code]
+    console.log(element.src)
     return(
         <div className='container frame'>
             

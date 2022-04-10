@@ -1,19 +1,19 @@
 {
     "cards": [{
             "code": "0",
-            "title": "Srm Test",
+            "title": "Interaction Test",
             "desc": "Test for Game Movements",
             "tags": "",
             "src": "./content/srm/srm.html",
-            "imgSrc": "https://images.unsplash.com/photo-1477862096227-3a1bb3b08330?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
+            "imgSrc": "./images/test.jpg"
         },
         {
             "code": "1",
-            "title": "Food Chain",
-            "desc": "Every Living being on the earth is dependent on each other for nutrition. This dependence is known as food chain.",
+            "title": "Learn French",
+            "desc": "French is the international language of cooking, fashion, theatre, the visual arts, dance and architecture. A knowledge of French offers access to great works of literature in the original French, as well as films and songs.",
             "tags": "",
             "src": "./content/food-chain/food-chain.html",
-            "imgSrc": "https://images.unsplash.com/photo-1477862096227-3a1bb3b08330?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
+            "imgSrc": "./images/learn-french.jpg"
         }
     ],
     "tags": [
