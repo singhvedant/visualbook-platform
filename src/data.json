@@ -3,13 +3,20 @@
             "code": "0",
             "title": "Srm Test",
             "desc": "Test for Game Movements",
-            "src": "content/srm/srm.html"
+            "tags": "",
+            "src": "./content/srm/srm.html",
+            "imgSrc": "https://images.unsplash.com/photo-1477862096227-3a1bb3b08330?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
         },
         {
             "code": "1",
             "title": "Food Chain",
             "desc": "Every Living being on the earth is dependent on each other for nutrition. This dependence is known as food chain.",
-            "src": "content/food-chain/food-chain.html"
+            "tags": "",
+            "src": "./content/food-chain/food-chain.html",
+            "imgSrc": "https://images.unsplash.com/photo-1477862096227-3a1bb3b08330?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
         }
+    ],
+    "tags": [
+
     ]
 }
